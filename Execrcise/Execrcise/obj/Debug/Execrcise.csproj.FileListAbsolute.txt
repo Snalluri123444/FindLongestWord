@@ -1,0 +1,8 @@
+C:\Users\cjana\source\repos\Execrcise\Execrcise\bin\Debug\Execrcise.exe.config
+C:\Users\cjana\source\repos\Execrcise\Execrcise\bin\Debug\Execrcise.exe
+C:\Users\cjana\source\repos\Execrcise\Execrcise\bin\Debug\Execrcise.pdb
+C:\Users\cjana\source\repos\Execrcise\Execrcise\obj\Debug\Execrcise.csprojResolveAssemblyReference.cache
+C:\Users\cjana\source\repos\Execrcise\Execrcise\obj\Debug\Execrcise.csproj.CoreCompileInputs.cache
+C:\Users\cjana\source\repos\Execrcise\Execrcise\obj\Debug\Execrcise.exe
+C:\Users\cjana\source\repos\Execrcise\Execrcise\obj\Debug\Execrcise.pdb
+C:\Users\cjana\source\repos\Execrcise\Execrcise\bin\Debug\wordlist.txt
